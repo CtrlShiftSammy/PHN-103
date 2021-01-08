@@ -1,0 +1,2 @@
+ Distance between the points is    9.04074097     units.
+ Direction cosines of the vector are   0.691314995     ,  0.636009812     and  0.342892230    
