@@ -1,0 +1,2 @@
+ The arithmetic mean is   6.00000000    
+ The geometric mean is   5.62341309    
