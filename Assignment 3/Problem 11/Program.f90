@@ -7,16 +7,12 @@ program Program
     trace2 = 0.0
     open (unit = 1, file = "Input1.txt", status = 'old' )
     do i = 1, 6
-        do j = 1, 6
-            read (1,*,end = 10) Matrix1(i, j) 
-        end do
+        read (1,*,end = 10) (Matrix1(i, j),  j = 1, 6) 
     end do
     10 close (unit = 1)
     open (unit = 1, file = "Input2.txt", status = 'old' )
     do i = 1, 6
-        do j = 1, 6
-            read (1,*,end = 20) Matrix2(i, j) 
-        end do
+        read (1,*,end = 20) (Matrix2(i, j),  j = 1, 6) 
     end do
     20 close (unit = 1)
         open(unit = 3 , file="Output.txt")

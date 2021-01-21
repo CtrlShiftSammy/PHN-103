@@ -1,13 +1,9 @@
- Distance of satellite at θ = 30.0° and ∈ of 0.00 is 1200.0000 kilometres.
-Closest distance of satellite  0.00 is  1200.000 kilometres.
-Furthest distance of satellite 0.00 is  1200.000 kilometres.
+The closest distance is 1200.000 km for E =  0.00
+The furthest distance is 1200.000 km for E =  0.00
 
- Distance of satellite at θ = 30.0° and ∈ of 0.25 is 1531.6014 kilometres.
-Closest distance of satellite  0.25 is   960.000 kilometres.
-Furthest distance of satellite 0.25 is  1600.000 kilometres.
+The closest distance is  960.000 km for E =  0.25
+The furthest distance is 1600.000 km for E =  0.25
 
- Distance of satellite at θ = 30.0° and ∈ of 0.50 is 2116.4497 kilometres.
-Closest distance of satellite  0.50 is   800.000 kilometres.
-Furthest distance of satellite 0.50 is  2400.000 kilometres.
+The closest distance is  800.000 km for E =  0.50
+The furthest distance is 2400.000 km for E =  0.50
 
- Try using a different value of θ in Input.txt

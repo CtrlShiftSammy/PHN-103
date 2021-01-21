@@ -7,7 +7,7 @@ program Program
     Lc = 3.0
     Lp = 3.0
     d = 0.5
-    T_min = huge(0)
+    T_min = huge(0.0)
     d_optimal = 0.5
     open(unit=2 , file="Output.txt")
         write (2, *) "Distance (m)  Tension (N)"
